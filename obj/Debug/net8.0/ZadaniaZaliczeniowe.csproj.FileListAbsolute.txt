@@ -12,3 +12,4 @@ D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\refint\ZadaniaZaliczeniowe.dl
 D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.pdb
 D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.genruntimeconfig.cache
 D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ref\ZadaniaZaliczeniowe.dll
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.sourcelink.json
