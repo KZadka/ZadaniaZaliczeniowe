@@ -1,0 +1,14 @@
+D:\C#Projects\ZadaniaZaliczeniowe\bin\Debug\net8.0\ZadaniaZaliczeniowe.exe
+D:\C#Projects\ZadaniaZaliczeniowe\bin\Debug\net8.0\ZadaniaZaliczeniowe.deps.json
+D:\C#Projects\ZadaniaZaliczeniowe\bin\Debug\net8.0\ZadaniaZaliczeniowe.runtimeconfig.json
+D:\C#Projects\ZadaniaZaliczeniowe\bin\Debug\net8.0\ZadaniaZaliczeniowe.dll
+D:\C#Projects\ZadaniaZaliczeniowe\bin\Debug\net8.0\ZadaniaZaliczeniowe.pdb
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.AssemblyInfoInputs.cache
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.AssemblyInfo.cs
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.csproj.CoreCompileInputs.cache
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.dll
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\refint\ZadaniaZaliczeniowe.dll
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.pdb
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ZadaniaZaliczeniowe.genruntimeconfig.cache
+D:\C#Projects\ZadaniaZaliczeniowe\obj\Debug\net8.0\ref\ZadaniaZaliczeniowe.dll
