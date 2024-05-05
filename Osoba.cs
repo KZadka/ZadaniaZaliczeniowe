@@ -49,8 +49,8 @@ public class Osoba
         {
             if (DataUrodzenia.HasValue)
             {
-                DateTime enddate = DataŚmierci ?? DateTime.Now;
-                return enddate - DataUrodzenia.Value;   
+                DateTime endDate = DataŚmierci ?? DateTime.Now;
+                return endDate - DataUrodzenia.Value;
             }
             return null;
         }
