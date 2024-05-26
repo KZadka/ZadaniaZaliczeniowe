@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Projects\\ZadaniaZaliczeniowe\\ZadaniaZaliczeniowe.csproj": {}
+    "/home/kris/projects/ZadaniaZaliczeniowe/ZadaniaZaliczeniowe.csproj": {}
   },
   "projects": {
-    "D:\\C#Projects\\ZadaniaZaliczeniowe\\ZadaniaZaliczeniowe.csproj": {
+    "/home/kris/projects/ZadaniaZaliczeniowe/ZadaniaZaliczeniowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Projects\\ZadaniaZaliczeniowe\\ZadaniaZaliczeniowe.csproj",
+        "projectUniqueName": "/home/kris/projects/ZadaniaZaliczeniowe/ZadaniaZaliczeniowe.csproj",
         "projectName": "ZadaniaZaliczeniowe",
-        "projectPath": "D:\\C#Projects\\ZadaniaZaliczeniowe\\ZadaniaZaliczeniowe.csproj",
-        "packagesPath": "C:\\Users\\Kris\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Projects\\ZadaniaZaliczeniowe\\obj\\",
+        "projectPath": "/home/kris/projects/ZadaniaZaliczeniowe/ZadaniaZaliczeniowe.csproj",
+        "packagesPath": "/home/kris/.nuget/packages/",
+        "outputPath": "/home/kris/projects/ZadaniaZaliczeniowe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/kris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
